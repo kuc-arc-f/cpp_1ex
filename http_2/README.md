@@ -61,3 +61,6 @@ curl -X DELETE http://localhost:8000/todos/3
 curl http://localhost:8000/todos
 ```
 ***
+### Blog
+
+https://zenn.dev/knaka0209/scraps/dffb6784475bb9
