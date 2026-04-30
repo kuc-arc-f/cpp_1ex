@@ -191,7 +191,7 @@ void help() {
 )";
 }
 
-std::string DB_PATH = "/home/naka/work/cpp/todo_3/todo.db";
+std::string DB_PATH = "todo.db";
 
 // ─────────────────────────────────────────
 //  Entry point
